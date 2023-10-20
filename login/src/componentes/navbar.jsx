@@ -61,7 +61,7 @@ const Navbar = () => {
                 ) : (
                   <li className="nav-item">
                     <button className="nav-link btn btn-link text-black" onClick={handleLogout}>
-                      Cerrar Sesión
+                      Logout
                     </button>
                   </li>
                 )}

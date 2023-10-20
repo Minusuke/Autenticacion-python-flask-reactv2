@@ -37,7 +37,7 @@ const Register = () => {
     <div className="container">
       <Navbar/>
       <div className="main-content">
-      <h1 className="text-center">REGISTRATE</h1>
+      <h1 className="text-center">Registremenonos</h1>
       <form onSubmit={handleRegister}>
         <div className="mb-3">
           <label htmlFor="exampleInputEmail1" className="form-label">
